@@ -84,18 +84,6 @@
 
 ## 📫 Connect
 
-
-
-![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)
-
-https://ganeshraikwar.vercel.app
-
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-https://instagram.com/byganeshhh
-
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)
-
-https://linkedin.com/in/ganeshhraikwar
+<a href="https://ganeshraikwar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/></a>
+<a href="https://instagram.com/byganeshhh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ganeshhraikwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>

@@ -78,8 +78,7 @@
 
 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ganeshhraikwar&theme=radical&hide_border=true)
-
+![Streak](https://streak-stats.demolab.com?user=ganeshhraikwar&theme=radical&hide_border=true)
 
 
 ---

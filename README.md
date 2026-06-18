@@ -3,8 +3,6 @@
 > Crafting websites, videos & brands
 > that make businesses stand out. 🚀
 
----
-
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A800&width=435&lines=Web+Developer;Video+Editor;Creative+Designer;AI+Tools+Expert)
@@ -79,6 +77,7 @@
 
 
 ![Streak](https://streak-stats.demolab.com?user=ganeshhraikwar&theme=radical&hide_border=true)
+
 
 
 ---

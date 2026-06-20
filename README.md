@@ -60,6 +60,7 @@
 
 | Project | Description | Live |
 |---|---|---|
+| 💱 FX Checker | Real-time currency exchange app | [View](https://fxcheckerr.vercel.app) |
 | 🍽️ Bella Canggu | Premium restaurant redesign | [View](https://bellacangguredesign.vercel.app) |
 | 🌴 Temeling Jungle Inn | Travel & tourism website | [View](https://temelingjungleinn.vercel.app) |
 | 💼 Portfolio | Creative portfolio | [View](https://ganeshraikwar.vercel.app) |

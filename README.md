@@ -1,19 +1,16 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ganeshhraikwar/ganeshhraikwar/main/banner.gif" width="100%"/>
-<br/>
+
+<br/> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=f97316&center=true&vCenter=true&width=600&multiline=false&lines=Hey+there%2C+I'm+Ganesh+Raikwar+%F0%9F%91%8B;Creative+Developer+from+Damoh%2C+MP+%F0%9F%87%AE%F0%9F%87%B3;Building+the+web%2C+one+pixel+at+a+time+%E2%9A%A1;Video+Editor+%7C+UI%2FUX+%7C+Photographer+%F0%9F%93%B7;Available+for+Freelance+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
+<br/> 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ganeshraikwar.vercel.app-f97316?style=for-the-badge&logoColor=white)](https://ganeshraikwar.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-@byganeshhh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/byganeshhh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh_Raikwar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-raikwar)
 [![Email](https://img.shields.io/badge/Gmail-ganeshhraikwar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshhraikwar@gmail.com)
-
 <br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ganeshhraikwar&color=f97316&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/ganeshhraikwar?style=for-the-badge&color=7c3aed&label=FOLLOWERS)](https://github.com/ganeshhraikwar)
 [![GitHub stars](https://img.shields.io/github/stars/ganeshhraikwar?style=for-the-badge&color=e11d48&label=TOTAL+STARS)](https://github.com/ganeshhraikwar)

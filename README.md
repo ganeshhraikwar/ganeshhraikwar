@@ -10,7 +10,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@byganeshhh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/byganeshhh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh_Raikwar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-raikwar)
 [![Email](https://img.shields.io/badge/Gmail-ganeshhraikwar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshhraikwar@gmail.com)
+
 <br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ganeshhraikwar&color=f97316&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/ganeshhraikwar?style=for-the-badge&color=7c3aed&label=FOLLOWERS)](https://github.com/ganeshhraikwar)
 [![GitHub stars](https://img.shields.io/github/stars/ganeshhraikwar?style=for-the-badge&color=e11d48&label=TOTAL+STARS)](https://github.com/ganeshhraikwar)

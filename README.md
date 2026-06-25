@@ -8,7 +8,7 @@
 <br/> 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ganeshraikwar.vercel.app-f97316?style=for-the-badge&logoColor=white)](https://ganeshraikwar.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-@byganeshhh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/byganeshhh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh_Raikwar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-raikwar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh_Raikwar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshraikwar)
 [![Email](https://img.shields.io/badge/Gmail-ganeshhraikwar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshhraikwar@gmail.com)
 
 <br/>
